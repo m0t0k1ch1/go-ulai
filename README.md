@@ -2,7 +2,7 @@
 
 [![GoDoc](https://godoc.org/github.com/m0t0k1ch1/go-ulai?status.svg)](https://godoc.org/github.com/m0t0k1ch1/go-ulai) [![wercker status](https://app.wercker.com/status/dc058d4a4600a7008b41a55a44f2cc15/s/master "wercker status")](https://app.wercker.com/project/byKey/dc058d4a4600a7008b41a55a44f2cc15)
 
-a [User Local AI API](http://ai.userlocal.jp/document/free/top) client for golang
+a [User Local AI API](http://ai.userlocal.jp/document/free/top) client for Go
 
 ## Example
 
